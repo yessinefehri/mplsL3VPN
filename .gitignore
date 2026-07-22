@@ -1,0 +1,15 @@
+# Extraction temporaire
+_extracted/
+_extract.py
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Documents sources (optionnel — décommenter si non versionnés)
+# *.docx
+# *.pdf
