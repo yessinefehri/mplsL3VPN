@@ -1,7 +1,7 @@
 ```text
 ┌──────────────────────────────────────────────────────────────────────────────┐
 │  MPLS L3VPN — ARCHITECTURE ISP                                               │
-│  Stage · Documentation Technique & Lab EVE-NG                                │
+│  Internship · Documentation Technique & Lab EVE-NG                                │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
