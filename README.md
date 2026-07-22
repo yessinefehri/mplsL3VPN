@@ -75,10 +75,3 @@ Parcours recommandé pour la lecture :
 > │ Chaque brique est vérifiée par `show` avant passage à la suivante.   │
 > └────────────────────────────────────────────────────────────────────┘
 
-─── [ 04 / SOURCES ] ──────────────────────────────────────────────────────────
-
-| Document source | Contenu intégré |
-|:----------------|:----------------|
-| `Partie_Theorique_MPLS_L3VPN.docx` | `docs/theory/` |
-| `Documentation_ISP_MPLS.docx` | `docs/protocols/` + `docs/architecture/` |
-| `Rapport_Configuration_Tests_MPLS_L3VPN.pdf` | `docs/implementation/` + `docs/validation/` |
