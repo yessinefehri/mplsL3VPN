@@ -11,7 +11,7 @@
 
 Ce dépôt documente un projet de stage centré sur la conception, la configuration et la validation d'une architecture **MPLS L3VPN** opérateur (RFC 4364). Le lab simule un ISP multi-clients avec isolation VRF, commutation par labels dans le cœur, et transport de routes VPNv4 entre Provider Edge.
 
-![MPLS L3VPN Topology](topology/topology.png)
+![MPLS L3VPN Topology](toplogy/topology.png)
 ─── [ 01 / REPO MAP ] ──────────────────────────────────────────────────────────
 
 | Section | Chemin | Contenu |
